@@ -72,10 +72,10 @@ Contributions are welcome to enhance this repository! If you'd like to add new p
 3.Make your changes and submit a pull request.
 
 📬 Contact
-Name: Punit Tak
-Email: punittak2005@gmail.com
-GitHub: PunitTak2005
-LinkedIn: Punit Tak
+1.Name: Punit Tak
+2.Email: punittak2005@gmail.com
+3.GitHub: PunitTak2005
+4.LinkedIn: Punit Tak
 
 
 ⭐ Star this repository to show your support and keep track of updates!
