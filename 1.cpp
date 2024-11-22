@@ -1,17 +1,25 @@
 #include <stdio.h>
-#include <conio.h>
 
+// Function to reverse the digits of an integer
 int revint(int p, int r);
 
-void main() {
+int main() {
     int n, result;
+
+    // Prompt the user for input
     printf("Enter the number: ");
     scanf("%d", &n);
+
+    // Reverse the number
     result = revint(n, 0);  // Start the reverse with 0
-    printf("The reverse of the number %d is %d", n, result);
-    getch();
+
+    // Display the result
+    printf("The reverse of the number %d is %d\n", n, result);
+
+    return 0;
 }
 
+// Recursive function to reverse the digits of an integer
 int revint(int p, int r) {
     if (p == 0) {
         return r;
